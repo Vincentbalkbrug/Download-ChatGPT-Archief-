@@ -1,0 +1,21 @@
+{
+  "name": "Mijn ChatGPT Archief",
+  "short_name": "GPT Archief",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f6f8",
+  "theme_color": "#244b78",
+  "description": "Bewaar en doorzoek je ChatGPT gesprekken per onderwerp.",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
